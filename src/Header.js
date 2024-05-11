@@ -7,14 +7,12 @@ const Header = () => {
         <section className="container main-hero-container">
           <div className="row">
             <div className="col-12 col-lg-6 header-left-side d-flex justify-content-center flex-column align-items-start ">
-              <h1 className="display-2">
-                Online Payment Made <br /> Easy For You.
-              </h1>
+              <h2 className="display-2">
+              Empowering Your Financial Future:  <br /> Elevate Your CIBIL Score with Us!
+              </h2>
               <p className="main-hero-para">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et,
-                quia quis? Ipsa officia ad deserunt voluptate quam, nisi odio
-                officiis tempora recusandae voluptate quam, nisi odio officiis
-                tempora recusandae
+              <strong>MYTH:</strong> Common belief holds that a poor Credit Score is unchangeable.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+              <strong> TRUTH:</strong> For the past eight years, we've been proving that belief wrong by consistently improving Credit Scores
               </p>
               <h3>Get early access for you</h3>
               <div className="input-group mt-3">
@@ -29,12 +27,12 @@ const Header = () => {
             {/*  --------------- main header right side--------------  */}
             <div className="col-12 col-lg-6 header-right-side d-flex justify-content-center align-items-center main-herosection-images">
               <img
-                src="./images/cibil2.jpeg"
+                src="./images/bank.avif"
                 alt="heroimg"
                 className="img-fluid"
               />
               <img
-                src="./images/cibil1.png"
+                src="./images/cibil_chart.jpg"
                 alt="heroimg4"
                 className="img-fluid main-hero-img2"
               />
